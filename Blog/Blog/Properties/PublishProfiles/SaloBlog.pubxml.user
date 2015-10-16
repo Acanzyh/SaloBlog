@@ -1,0 +1,202 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit http://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <_PublishTargetUrl>D:\Publish\Salo.Blog</_PublishTargetUrl>
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="bin/Blog.dll">
+      <publishTime>10/16/2015 18:10:27</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Web.Infrastructure.dll">
+      <publishTime>10/16/2015 17:35:24</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Web.Mvc.FixedDisplayModes.dll">
+      <publishTime>10/16/2015 17:35:24</publishTime>
+    </File>
+    <File Include="bin/Newtonsoft.Json.dll">
+      <publishTime>10/16/2015 17:35:24</publishTime>
+    </File>
+    <File Include="bin/System.Net.Http.Formatting.dll">
+      <publishTime>10/16/2015 17:35:24</publishTime>
+    </File>
+    <File Include="bin/System.Web.Helpers.dll">
+      <publishTime>10/16/2015 17:35:24</publishTime>
+    </File>
+    <File Include="bin/System.Web.Http.dll">
+      <publishTime>10/16/2015 17:35:25</publishTime>
+    </File>
+    <File Include="bin/System.Web.Http.WebHost.dll">
+      <publishTime>10/16/2015 17:35:25</publishTime>
+    </File>
+    <File Include="bin/System.Web.Mvc.dll">
+      <publishTime>10/16/2015 17:35:24</publishTime>
+    </File>
+    <File Include="bin/System.Web.Razor.dll">
+      <publishTime>10/16/2015 17:35:24</publishTime>
+    </File>
+    <File Include="bin/System.Web.WebPages.Deployment.dll">
+      <publishTime>10/16/2015 17:35:24</publishTime>
+    </File>
+    <File Include="bin/System.Web.WebPages.dll">
+      <publishTime>10/16/2015 17:35:24</publishTime>
+    </File>
+    <File Include="bin/System.Web.WebPages.Razor.dll">
+      <publishTime>10/16/2015 17:35:24</publishTime>
+    </File>
+    <File Include="css/font-awesome.min.css">
+      <publishTime>12/14/2014 06:28:16</publishTime>
+    </File>
+    <File Include="css/ie/backgroundsize.min.htc">
+      <publishTime>12/14/2014 06:28:16</publishTime>
+    </File>
+    <File Include="css/ie/html5shiv.js">
+      <publishTime>12/14/2014 06:28:16</publishTime>
+    </File>
+    <File Include="css/ie/PIE.htc">
+      <publishTime>12/14/2014 06:28:16</publishTime>
+    </File>
+    <File Include="css/ie/v8.css">
+      <publishTime>12/14/2014 06:28:16</publishTime>
+    </File>
+    <File Include="css/images/overlay.png">
+      <publishTime>12/14/2014 06:28:16</publishTime>
+    </File>
+    <File Include="css/skel.css">
+      <publishTime>12/14/2014 06:28:16</publishTime>
+    </File>
+    <File Include="css/style-large.css">
+      <publishTime>12/14/2014 06:28:16</publishTime>
+    </File>
+    <File Include="css/style-medium.css">
+      <publishTime>12/14/2014 06:28:16</publishTime>
+    </File>
+    <File Include="css/style-small.css">
+      <publishTime>12/14/2014 06:28:16</publishTime>
+    </File>
+    <File Include="css/style-xlarge.css">
+      <publishTime>12/14/2014 06:28:16</publishTime>
+    </File>
+    <File Include="css/style-xsmall.css">
+      <publishTime>12/14/2014 06:28:16</publishTime>
+    </File>
+    <File Include="css/style.css">
+      <publishTime>09/30/2015 18:01:05</publishTime>
+    </File>
+    <File Include="fonts/fontawesome-webfont.eot">
+      <publishTime>12/14/2014 06:28:16</publishTime>
+    </File>
+    <File Include="fonts/fontawesome-webfont.svg">
+      <publishTime>12/14/2014 06:28:16</publishTime>
+    </File>
+    <File Include="fonts/fontawesome-webfont.ttf">
+      <publishTime>12/14/2014 06:28:16</publishTime>
+    </File>
+    <File Include="fonts/fontawesome-webfont.woff">
+      <publishTime>12/14/2014 06:28:16</publishTime>
+    </File>
+    <File Include="fonts/FontAwesome.otf">
+      <publishTime>12/14/2014 06:28:16</publishTime>
+    </File>
+    <File Include="Global.asax">
+      <publishTime>10/16/2015 17:35:24</publishTime>
+    </File>
+    <File Include="images/avatar.jpg">
+      <publishTime>08/19/2015 15:15:33</publishTime>
+    </File>
+    <File Include="images/bg.jpg">
+      <publishTime>09/30/2015 17:59:16</publishTime>
+    </File>
+    <File Include="images/fulls/01.jpg">
+      <publishTime>12/14/2014 06:28:16</publishTime>
+    </File>
+    <File Include="images/fulls/02.jpg">
+      <publishTime>12/14/2014 06:28:16</publishTime>
+    </File>
+    <File Include="images/fulls/03.jpg">
+      <publishTime>12/14/2014 06:28:16</publishTime>
+    </File>
+    <File Include="images/fulls/04.jpg">
+      <publishTime>12/14/2014 06:28:16</publishTime>
+    </File>
+    <File Include="images/fulls/05.jpg">
+      <publishTime>12/14/2014 06:28:16</publishTime>
+    </File>
+    <File Include="images/fulls/06.jpg">
+      <publishTime>12/14/2014 06:28:16</publishTime>
+    </File>
+    <File Include="images/thumbs/01.jpg">
+      <publishTime>09/30/2015 17:59:57</publishTime>
+    </File>
+    <File Include="images/thumbs/02.jpg">
+      <publishTime>09/30/2015 18:00:07</publishTime>
+    </File>
+    <File Include="images/thumbs/03.jpg">
+      <publishTime>09/30/2015 18:00:10</publishTime>
+    </File>
+    <File Include="images/thumbs/04.jpg">
+      <publishTime>09/30/2015 18:00:14</publishTime>
+    </File>
+    <File Include="images/thumbs/05.jpg">
+      <publishTime>09/30/2015 18:00:18</publishTime>
+    </File>
+    <File Include="images/thumbs/06.jpg">
+      <publishTime>09/30/2015 18:00:22</publishTime>
+    </File>
+    <File Include="js/init.js">
+      <publishTime>12/14/2014 06:28:16</publishTime>
+    </File>
+    <File Include="js/jquery.min.js">
+      <publishTime>12/14/2014 06:28:16</publishTime>
+    </File>
+    <File Include="js/jquery.poptrox.min.js">
+      <publishTime>12/14/2014 06:28:16</publishTime>
+    </File>
+    <File Include="js/skel.min.js">
+      <publishTime>12/14/2014 06:28:16</publishTime>
+    </File>
+    <File Include="packages.config">
+      <publishTime>10/16/2015 17:35:25</publishTime>
+    </File>
+    <File Include="sass/ie/v8.scss">
+      <publishTime>12/14/2014 06:28:16</publishTime>
+    </File>
+    <File Include="sass/style-large.scss">
+      <publishTime>12/14/2014 06:28:16</publishTime>
+    </File>
+    <File Include="sass/style-medium.scss">
+      <publishTime>12/14/2014 06:28:16</publishTime>
+    </File>
+    <File Include="sass/style-small.scss">
+      <publishTime>12/14/2014 06:28:16</publishTime>
+    </File>
+    <File Include="sass/style-xlarge.scss">
+      <publishTime>12/14/2014 06:28:16</publishTime>
+    </File>
+    <File Include="sass/style-xsmall.scss">
+      <publishTime>12/14/2014 06:28:16</publishTime>
+    </File>
+    <File Include="sass/style.scss">
+      <publishTime>12/14/2014 06:28:16</publishTime>
+    </File>
+    <File Include="sass/_mixins.scss">
+      <publishTime>12/14/2014 06:28:16</publishTime>
+    </File>
+    <File Include="sass/_vars.scss">
+      <publishTime>12/14/2014 06:28:16</publishTime>
+    </File>
+    <File Include="Views/Home/Index.cshtml">
+      <publishTime>10/16/2015 17:50:50</publishTime>
+    </File>
+    <File Include="Views/Web.config">
+      <publishTime>10/16/2015 17:35:24</publishTime>
+    </File>
+    <File Include="Web.config">
+      <publishTime>10/16/2015 18:10:27</publishTime>
+    </File>
+  </ItemGroup>
+</Project>
