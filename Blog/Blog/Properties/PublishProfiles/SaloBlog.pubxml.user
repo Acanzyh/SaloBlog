@@ -10,7 +10,7 @@ by editing this MSBuild file. In order to learn more about this please visit htt
   </PropertyGroup>
   <ItemGroup>
     <File Include="bin/Blog.dll">
-      <publishTime>10/16/2015 18:10:27</publishTime>
+      <publishTime>10/19/2015 18:28:26</publishTime>
     </File>
     <File Include="bin/Microsoft.Web.Infrastructure.dll">
       <publishTime>10/16/2015 17:35:24</publishTime>
@@ -47,6 +47,63 @@ by editing this MSBuild file. In order to learn more about this please visit htt
     </File>
     <File Include="bin/System.Web.WebPages.Razor.dll">
       <publishTime>10/16/2015 17:35:24</publishTime>
+    </File>
+    <File Include="Content/default.css">
+      <publishTime>10/19/2015 17:00:55</publishTime>
+    </File>
+    <File Include="Content/functions.js">
+      <publishTime>10/19/2015 18:22:11</publishTime>
+    </File>
+    <File Include="Content/jquery.min.js">
+      <publishTime>09/11/2013 22:33:47</publishTime>
+    </File>
+    <File Include="Content/jscex-async-powerpack.min.js">
+      <publishTime>09/11/2013 22:33:47</publishTime>
+    </File>
+    <File Include="Content/jscex-async.min.js">
+      <publishTime>09/11/2013 22:33:47</publishTime>
+    </File>
+    <File Include="Content/jscex-builderbase.min.js">
+      <publishTime>09/11/2013 22:33:47</publishTime>
+    </File>
+    <File Include="Content/jscex-jit.js">
+      <publishTime>09/11/2013 22:33:47</publishTime>
+    </File>
+    <File Include="Content/jscex-parser.js">
+      <publishTime>09/11/2013 22:33:47</publishTime>
+    </File>
+    <File Include="Content/jscex.min.js">
+      <publishTime>09/11/2013 22:33:47</publishTime>
+    </File>
+    <File Include="Content/love.js">
+      <publishTime>09/11/2013 22:33:47</publishTime>
+    </File>
+    <File Include="Content/love.mp3">
+      <publishTime>04/14/2014 14:51:45</publishTime>
+    </File>
+    <File Include="Content/Script/adsbygoogle.js">
+      <publishTime>10/19/2015 17:37:52</publishTime>
+    </File>
+    <File Include="Content/Script/ca-pub-2935286260943234.js">
+      <publishTime>10/19/2015 17:37:52</publishTime>
+    </File>
+    <File Include="Content/Script/hm.js">
+      <publishTime>10/19/2015 17:37:52</publishTime>
+    </File>
+    <File Include="Content/Script/jquery.min.js">
+      <publishTime>10/19/2015 17:37:52</publishTime>
+    </File>
+    <File Include="Content/Script/jquery.qrcode.min.js">
+      <publishTime>10/19/2015 17:37:52</publishTime>
+    </File>
+    <File Include="Content/Script/pace.min.js">
+      <publishTime>10/19/2015 17:37:52</publishTime>
+    </File>
+    <File Include="Content/Style/demo.css">
+      <publishTime>10/19/2015 17:37:52</publishTime>
+    </File>
+    <File Include="Content/Style/pace-theme-barber-shop.css">
+      <publishTime>10/19/2015 17:37:52</publishTime>
     </File>
     <File Include="css/font-awesome.min.css">
       <publishTime>12/14/2014 06:28:16</publishTime>
@@ -190,13 +247,13 @@ by editing this MSBuild file. In order to learn more about this please visit htt
       <publishTime>12/14/2014 06:28:16</publishTime>
     </File>
     <File Include="Views/Home/Index.cshtml">
-      <publishTime>10/16/2015 17:50:50</publishTime>
+      <publishTime>10/19/2015 18:22:08</publishTime>
     </File>
     <File Include="Views/Web.config">
       <publishTime>10/16/2015 17:35:24</publishTime>
     </File>
     <File Include="Web.config">
-      <publishTime>10/16/2015 18:10:27</publishTime>
+      <publishTime>10/19/2015 17:30:08</publishTime>
     </File>
   </ItemGroup>
 </Project>

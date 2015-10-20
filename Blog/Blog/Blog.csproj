@@ -118,39 +118,26 @@
     <Compile Include="App_Start\FilterConfig.cs" />
     <Compile Include="App_Start\RouteConfig.cs" />
     <Compile Include="App_Start\WebApiConfig.cs" />
-    <Content Include="css\font-awesome.min.css" />
-    <Content Include="css\ie\backgroundsize.min.htc" />
-    <Content Include="css\ie\html5shiv.js" />
-    <Content Include="css\ie\PIE.htc" />
-    <Content Include="css\ie\v8.css" />
-    <Content Include="css\images\overlay.png" />
-    <Content Include="css\skel.css" />
-    <Content Include="css\style-large.css" />
-    <Content Include="css\style-medium.css" />
-    <Content Include="css\style-small.css" />
-    <Content Include="css\style-xlarge.css" />
-    <Content Include="css\style-xsmall.css" />
-    <Content Include="css\style.css" />
-    <Content Include="fonts\fontawesome-webfont.svg" />
+    <Content Include="Content\default.css" />
+    <Content Include="Content\functions.js" />
+    <Content Include="Content\jquery.min.js" />
+    <Content Include="Content\jscex-async-powerpack.min.js" />
+    <Content Include="Content\jscex-async.min.js" />
+    <Content Include="Content\jscex-builderbase.min.js" />
+    <Content Include="Content\jscex-jit.js" />
+    <Content Include="Content\jscex-parser.js" />
+    <Content Include="Content\jscex.min.js" />
+    <Content Include="Content\love.js" />
+    <Content Include="Content\love.mp3" />
+    <Content Include="Content\Script\adsbygoogle.js" />
+    <Content Include="Content\Script\ca-pub-2935286260943234.js" />
+    <Content Include="Content\Script\hm.js" />
+    <Content Include="Content\Script\jquery.min.js" />
+    <Content Include="Content\Script\jquery.qrcode.min.js" />
+    <Content Include="Content\Script\pace.min.js" />
+    <Content Include="Content\Style\demo.css" />
+    <Content Include="Content\Style\pace-theme-barber-shop.css" />
     <Content Include="Global.asax" />
-    <Content Include="images\avatar.jpg" />
-    <Content Include="images\bg.jpg" />
-    <Content Include="images\fulls\01.jpg" />
-    <Content Include="images\fulls\02.jpg" />
-    <Content Include="images\fulls\03.jpg" />
-    <Content Include="images\fulls\04.jpg" />
-    <Content Include="images\fulls\05.jpg" />
-    <Content Include="images\fulls\06.jpg" />
-    <Content Include="images\thumbs\01.jpg" />
-    <Content Include="images\thumbs\02.jpg" />
-    <Content Include="images\thumbs\03.jpg" />
-    <Content Include="images\thumbs\04.jpg" />
-    <Content Include="images\thumbs\05.jpg" />
-    <Content Include="images\thumbs\06.jpg" />
-    <Content Include="js\init.js" />
-    <Content Include="js\jquery.min.js" />
-    <Content Include="js\jquery.poptrox.min.js" />
-    <Content Include="js\skel.min.js" />
     <Content Include="Web.config" />
     <Content Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
@@ -169,21 +156,6 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="Views\Home\Index.cshtml" />
-  </ItemGroup>
-  <ItemGroup>
-    <Content Include="fonts\fontawesome-webfont.eot" />
-    <Content Include="fonts\fontawesome-webfont.ttf" />
-    <Content Include="fonts\fontawesome-webfont.woff" />
-    <Content Include="fonts\FontAwesome.otf" />
-    <Content Include="sass\ie\v8.scss" />
-    <Content Include="sass\style-large.scss" />
-    <Content Include="sass\style-medium.scss" />
-    <Content Include="sass\style-small.scss" />
-    <Content Include="sass\style-xlarge.scss" />
-    <Content Include="sass\style-xsmall.scss" />
-    <Content Include="sass\style.scss" />
-    <Content Include="sass\_mixins.scss" />
-    <Content Include="sass\_vars.scss" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Properties\PublishProfiles\SaloBlog.pubxml" />
